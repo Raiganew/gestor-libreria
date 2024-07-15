@@ -1,0 +1,66 @@
+
+{
+  "items": [
+    {
+      "clasificacion": "revista",
+      "formato": "impreso",
+      "nombre": "Revista 1",
+      "precio": 4500
+    },
+    {
+      "clasificacion": "cuadernillo",
+      "formato": "impreso",
+      "nombre": "Cuadernillo 1",
+      "precio": 6200
+    },
+    {
+      "clasificacion": "libro",
+      "formato": "electronico",
+      "nombre": "Libro 1",
+      "precio": 8100
+    },
+    {
+      "clasificacion": "revista",
+      "formato": "electronico",
+      "nombre": "Revista 2",
+      "precio": 5200
+    },
+    {
+      "clasificacion": "cuadernillo",
+      "formato": "impreso",
+      "nombre": "Cuadernillo 2",
+      "precio": 6800
+    },
+    {
+      "clasificacion": "libro",
+      "formato": "electronico",
+      "nombre": "Libro 2",
+      "precio": 8300
+    },
+    {
+      "clasificacion": "revista",
+      "formato": "impreso",
+      "nombre": "Revista 3",
+      "precio": 4700
+    },
+    {
+      "clasificacion": "cuadernillo",
+      "formato": "electronico",
+      "nombre": "Cuadernillo 3",
+      "precio": 6400
+    },
+    {
+      "clasificacion": "libro",
+      "formato": "impreso",
+      "nombre": "Libro 3",
+      "precio": 8000
+    },
+    {
+      "clasificacion": "revista",
+      "formato": "electronico",
+      "nombre": "Revista 4",
+      "precio": 4900
+    }
+  ]
+}
+
